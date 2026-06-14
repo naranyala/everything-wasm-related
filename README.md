@@ -2,8 +2,6 @@
 
 Collection of awesome things regarding the WebAssembly ecosystem.
 
-Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contribute.
-
 ## Contents
 
 - [General Resources](#general-resources)
@@ -209,6 +207,4 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - **Simplified Chinese:** [WebAssembly 中文网](http://webassembly.org.cn/)
 - **Spanish:** [Compilando para el navegador con WebAssembly](https://juancrg90.me/essays/compilando-para-el-navegador-con-webassembly)
 
-## License
 
-To the extent possible under law, [Matteo Basso](https://github.com/mbasso) has waived all copyright and related or neighboring rights to this work.
