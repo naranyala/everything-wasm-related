@@ -4,43 +4,6 @@ A comprehensive and curated collection of awesome things regarding the WebAssemb
 
 Beyond the core technology, this list serves as an exhaustive reference and knowledge base to support your development journey. You will discover a robust ecosystem of essential tools, including command-line toolkits and advanced editor extensions. To accelerate your learning, we have compiled a wealth of resources such as official reference manuals, in-depth articles, comprehensive video tutorials, and conference keynotes. Additionally, you can dive into academic research papers, join active community channels, and get inspired by real-world showcases, benchmarks, and multilingual resources that highlight the incredible versatility of WebAssembly.
 
-## Contents
-
-- [General Resources](#general-resources)
-- [WebAssembly 3.0 & Beyond](#webassembly-30--beyond)
-- [Getting Started](#getting-started)
-  - [Online Playgrounds](#online-playgrounds)
-  - [Tutorials](#tutorials)
-  - [Books](#books)
-- [The Component Model & WASI](#the-component-model--wasi)
-- [Languages & Compilers](#languages--compilers)
-  - [Rust](#rust)
-  - [C / C++](#c--c)
-  - [Go](#go)
-  - [Zig](#zig)
-  - [AssemblyScript](#assemblyscript)
-  - [Other Languages](#other-languages)
-- [Runtimes & Standalone](#runtimes--standalone)
-  - [Desktop & Server Runtimes](#desktop--server-runtimes)
-  - [Embedded & IoT Runtimes](#embedded--iot-runtimes)
-  - [Cloud Native & Serverless](#cloud-native--serverless)
-- [Libraries & Frameworks](#libraries--frameworks)
-  - [Web UI Frameworks](#web-ui-frameworks)
-  - [AI & Machine Learning](#ai--machine-learning)
-  - [Graphics & WebGL](#graphics--webgl)
-- [Tools & Toolkits](#tools--toolkits)
-  - [Editor Support](#editor-support)
-  - [Command-line Tools](#command-line-tools)
-- [Learning & Ecosystem](#learning--ecosystem)
-  - [Articles](#articles)
-  - [Video](#video)
-  - [Community](#community)
-- [Scientific & Academic](#scientific--academic)
-- [Showcase](#showcase)
-  - [Examples](#examples)
-  - [Demos](#demos)
-  - [Benchmarks](#benchmarks)
-- [Resources in other languages](#resources-in-other-languages)
 
 ## General Resources
 - [Official Site](http://webassembly.org/)
