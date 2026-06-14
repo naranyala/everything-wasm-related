@@ -1,6 +1,6 @@
 # Awesome WebAssembly [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Collection of awesome things regarding the WebAssembly ecosystem.
+A comprehensive and curated collection of awesome things regarding the WebAssembly (Wasm) ecosystem. This repository covers everything you need to know: from getting started guides and general resources to the latest advancements like WebAssembly 3.0 and the Component Model (WASI). It features an extensive list of compilers for various languages, diverse runtimes (spanning desktop, embedded, and cloud-native), and libraries for Web UI, AI/ML, and graphics. You will also find a rich collection of tools, learning materials, academic research, and real-world showcases that highlight the incredible versatility of WebAssembly.
 
 ## Contents
 
