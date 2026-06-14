@@ -1,6 +1,8 @@
 # Awesome WebAssembly [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A comprehensive and curated collection of awesome things regarding the WebAssembly (Wasm) ecosystem. This repository covers everything you need to know: from getting started guides and general resources to the latest advancements like WebAssembly 3.0 and the Component Model (WASI). It features an extensive list of compilers for various languages, diverse runtimes (spanning desktop, embedded, and cloud-native), and libraries for Web UI, AI/ML, and graphics. You will also find a rich collection of tools, learning materials, academic research, and real-world showcases that highlight the incredible versatility of WebAssembly.
+A comprehensive and curated collection of awesome things regarding the WebAssembly (Wasm) ecosystem. This repository covers everything you need to know: from getting started guides and general resources to the latest advancements like WebAssembly 3.0 and the Component Model (WASI). It features an extensive list of compilers for various languages, diverse runtimes (spanning desktop, embedded, and cloud-native), and libraries for Web UI, AI/ML, and graphics.
+
+Beyond the core technology, this list serves as an exhaustive reference and knowledge base to support your development journey. You will discover a robust ecosystem of essential tools, including command-line toolkits and advanced editor extensions. To accelerate your learning, we have compiled a wealth of resources such as official reference manuals, in-depth articles, comprehensive video tutorials, and conference keynotes. Additionally, you can dive into academic research papers, join active community channels, and get inspired by real-world showcases, benchmarks, and multilingual resources that highlight the incredible versatility of WebAssembly.
 
 ## Contents
 
@@ -12,6 +14,12 @@ A comprehensive and curated collection of awesome things regarding the WebAssemb
   - [Books](#books)
 - [The Component Model & WASI](#the-component-model--wasi)
 - [Languages & Compilers](#languages--compilers)
+  - [Rust](#rust)
+  - [C / C++](#c--c)
+  - [Go](#go)
+  - [Zig](#zig)
+  - [AssemblyScript](#assemblyscript)
+  - [Other Languages](#other-languages)
 - [Runtimes & Standalone](#runtimes--standalone)
   - [Desktop & Server Runtimes](#desktop--server-runtimes)
   - [Embedded & IoT Runtimes](#embedded--iot-runtimes)
@@ -19,13 +27,13 @@ A comprehensive and curated collection of awesome things regarding the WebAssemb
 - [Libraries & Frameworks](#libraries--frameworks)
   - [Web UI Frameworks](#web-ui-frameworks)
   - [AI & Machine Learning](#ai--machine-learning)
-  - [Data Processing](#data-processing)
   - [Graphics & WebGL](#graphics--webgl)
 - [Tools & Toolkits](#tools--toolkits)
+  - [Editor Support](#editor-support)
+  - [Command-line Tools](#command-line-tools)
 - [Learning & Ecosystem](#learning--ecosystem)
   - [Articles](#articles)
   - [Video](#video)
-  - [Slides](#slides)
   - [Community](#community)
 - [Scientific & Academic](#scientific--academic)
 - [Showcase](#showcase)
@@ -33,7 +41,6 @@ A comprehensive and curated collection of awesome things regarding the WebAssemb
   - [Demos](#demos)
   - [Benchmarks](#benchmarks)
 - [Resources in other languages](#resources-in-other-languages)
-- [License](#license)
 
 ## General Resources
 - [Official Site](http://webassembly.org/)
